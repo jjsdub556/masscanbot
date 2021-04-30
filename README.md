@@ -14,7 +14,7 @@ Made 'on kolenka' script to automate masscan to process domains in parrallel )
 ### Masscan rate
 ```mrate=1000```
 
-### Maximum time to resolve 1 DNS record while host operation
+### Maximum time to resolve 1 DNS record while executing host operation
 ```timeout=3```
 
 ### Log file )
