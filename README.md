@@ -5,7 +5,7 @@ Made 'on kolenka' script to automate masscan to process domains in parrallel )
 ### filename with IPs or domains
 ```rangefile=filename.txt```
 
-### take top XX from nmap, as masscan doesn't know what is top-ports
+### take top XX ports from nmap, as masscan doesn't know what is top-ports
 ```ports=40```
 
 ### Maximum number of threads. Will sleep for 2 secs if reached
