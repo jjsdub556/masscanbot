@@ -1,7 +1,7 @@
 # masscanbot
 Made 'on kolenka' script to automate masscan to process domains in parrallel )
 
-## Change parameter inside script
+## Change parameters inside script
 ### filename with IPs or domains
 ```rangefile=filename.txt```
 
